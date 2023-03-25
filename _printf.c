@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 void _print_string(char *s);
 void _free(char *a, char *b);
 /**
